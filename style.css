@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    height: 380px;
+    margin-bottom: 150px;
+    text-align: center;
+    display: block;
+    padding: 160px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    padding-top: 6px;
+    font-size: 25px;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+
+.box-para {
+    font-size: 17px;
+
+
+}
+
+.button {
+    background-color: rgb(213, 5, 22);
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+    padding: 20px 25px;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.option-selector {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.payment-option {
+    justify-content: center;
+    display: flex;
+    background-color: rgba(131, 142, 123, 0.595);
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.choose {
+    background-color: rgba(250, 114, 114, 0.37);
+    border: 3px solid salmon;
+    color: salmon;
+}
+
+.input-field {
+    width: 300px;
+    padding: 28px;
+    position: relative;
+    border: none;
+
+}
+
+.input-data {
+    border: none;
+    position: relative;
+
+
+
+}
+
+#others-payment {
+    display: flex;
+    justify-content: center;
+}
+
+.underline {
+    margin-top: 6px;
+}
+
+.donate-today {
+    text-align: center;
+    margin-bottom: 150px;
+
+}
+
+#donate-plan {
+    text-align: center;
+}
+
+.box-1 {
+    background-color: rgba(170, 171, 167, 0.704);
+
+    justify-content: center;
+    height: 300px;
+    width: 350px;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 60px;
+    margin: 10px;
+
+}
+
+.box-2 {
+    background-color: pink;
+
+    justify-content: center;
+    height: 300px;
+    width: 350px;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 60px;
+    margin: 10px;
+}
+
+
+.box-3 {
+    background-color: burlywood;
+
+    justify-content: center;
+    height: 300px;
+    width: 350px;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 60px;
+    margin: 10px;
+}
+
+#three-box {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.update-part {
+    background-color: bisque;
+    height: 100px;
+    width: 600px;
+    padding-top: 60px;
+    text-align: center;
+    margin-left: 450px;
+
+}
+
+.email-section {
+    background-color: rgba(206, 200, 202, 0.911);
+    width: 250px;
+    height: 40px;
+    border-radius: 5px 0 0 5px;
+    padding-left: 10px;
+    font-weight: 700;
+    border: none;
+    position: relative;
+}
+
+#update-section {
+    margin-top: 150px;
+}
+
+
+.dot {
+    background-color: red;
+    color: white;
+    height: 41px;
+    width: 150px;
+    border-radius: 0 5px 5px 0;
+    font-weight: 700;
+    border: none;
+    left: -5px;
+    position: relative;
+
+
+}
+
+#last-part {
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(158, 19, 51);
+    height: 100px;
+    width: 100%;
+    background-color: #0a0a0ae0;
+}
+
+#agreed {
+    font-size: 28px;
+    font-family: 'Lobster', cursive;
+
+}
